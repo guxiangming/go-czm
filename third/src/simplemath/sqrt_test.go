@@ -1,6 +1,6 @@
 package simplemath
 
-import "testint"
+import "testing"
 
 func TestSqrt(t *testing.T)
 {
